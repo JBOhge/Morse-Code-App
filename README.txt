@@ -1,1 +1,1 @@
-This is a README file
+Group project I was responcible for creating the backend and websocket code
